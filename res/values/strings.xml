@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CommonConnectTask</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_uri_initvalue">http://</string>
+    <string name="button_connect">Connect</string>
+
+</resources>
